@@ -1,6 +1,6 @@
 /**
  * Замер пакетного изменения фигур. Сервер должен быть запущен.
- * Использование: npm run bench:actions -- 10 500 1000
+ * Использование: npm run bench:actions -- 500 1000 2000
  */
 import { GLOBAL_DB_MANAGER } from '#scripts/db.script.js';
 import { CONFIG } from '#utilities/config.js';

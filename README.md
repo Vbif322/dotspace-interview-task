@@ -109,5 +109,5 @@ curl -X POST localhost:3000/api/canvas/shape/actions \
 Замер пакетного изменения (сервер должен быть запущен):
 
 ```bash
-npm run bench:actions -- 10 100 500
+npm run bench:actions -- 500 1000 2000
 ```
